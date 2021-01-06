@@ -1,5 +1,9 @@
 # nuxt_app
 
+This app is a sample 
+Nuxt uses authentication of firebase with Axios and Vuex
+Nuxt can keep authentication after reload a page to use local storage
+
 ## Build Setup
 
 ```bash
